@@ -47,4 +47,4 @@ Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2023). [Understanding the d
 
 ---
 
-You can reach me at [rajdevbrar@berkeley.edu](mailto:rajdevbrar@berkeley.edu).
+You can reach me at rajdevbrar[at]berkeley.edu
