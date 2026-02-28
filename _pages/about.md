@@ -3,7 +3,7 @@ layout: about
 title: about
 nav: false
 permalink: /
-subtitle:
+subtitle: <a href="/assets/pdf/CV_RajdevBrar_Jan2026.pdf">CV</a>
 
 profile:
   align: right
