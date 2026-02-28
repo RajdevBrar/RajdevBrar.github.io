@@ -27,11 +27,9 @@ latest_posts:
 
 I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berkeley.
 
-## Policy Briefs and Blog Posts
+## Publications
 
-Pierotti, R., Delavallade, C., & Brar, R. (2023). [Engaging men for women's economic empowerment: Overview of the evidence](https://openknowledge.worldbank.org/server/api/core/bitstreams/974c3488-0c43-4c1d-955c-f6b9b32cbd30/content). *World Bank Policy Brief*, Africa Gender Innovation Lab.
-
-Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2023). [Understanding the dynamics of gender norms in Somalia: A behavioral approach](https://blogs.worldbank.org/en/developmenttalk/understanding-dynamics-gender-norms-somalia-behavioral-approach). *World Bank Blog: Let's Talk Development*.
+Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2025). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
 
 ## Work in Progress
 
@@ -39,8 +37,10 @@ Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2023). [Understanding the d
 
 "Bundled agricultural services for smallholder farmers in Egypt" (with Amira El-Shal, Jeremy Magruder) [Pilot preparation]
 
-## Publications
+## Policy Briefs and Blog Posts
 
-Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2025). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
+Pierotti, R., Delavallade, C., & Brar, R. (2023). [Engaging men for women's economic empowerment: Overview of the evidence](https://openknowledge.worldbank.org/server/api/core/bitstreams/974c3488-0c43-4c1d-955c-f6b9b32cbd30/content). *World Bank Policy Brief*, Africa Gender Innovation Lab.
+
+Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2023). [Understanding the dynamics of gender norms in Somalia: A behavioral approach](https://blogs.worldbank.org/en/developmenttalk/understanding-dynamics-gender-norms-somalia-behavioral-approach). *World Bank Blog: Let's Talk Development*.
 
 You can reach me at [rajdevbrar@berkeley.edu](mailto:rajdevbrar@berkeley.edu).
