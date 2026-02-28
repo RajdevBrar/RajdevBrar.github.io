@@ -42,3 +42,5 @@ Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2023). [Understanding the d
 ## Publications
 
 Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2025). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
+
+You can reach me at [rajdevbrar@berkeley.edu](mailto:rajdevbrar@berkeley.edu).
