@@ -32,9 +32,6 @@ I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berk
 "Information-seeking behavior among high school students in India" (with Rubina Hundal)
 
 "Bundled agricultural services for smallholder farmers in Egypt" (with Amira El-Shal, Jeremy Magruder)
-
-"Commitment savings in farming populations" (with Kelsey Jack, Supreet Kaur, Nicholas Swanson)
-
 ### Publications
 
 Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2026). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
