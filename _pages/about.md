@@ -29,7 +29,7 @@ I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berk
 
 ## Policy Briefs and Blog Posts
 
-Pierotti, R., Delavallade, C., & Brar, R. (2023). [Engaging men for women's economic empowerment: Overview of the evidence](https://www.worldbank.org). *World Bank Policy Brief*, Africa Gender Innovation Lab.
+Pierotti, R., Delavallade, C., & Brar, R. (2023). [Engaging men for women's economic empowerment: Overview of the evidence](https://openknowledge.worldbank.org/server/api/core/bitstreams/974c3488-0c43-4c1d-955c-f6b9b32cbd30/content). *World Bank Policy Brief*, Africa Gender Innovation Lab.
 
 Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2023). [Understanding the dynamics of gender norms in Somalia: A behavioral approach](https://blogs.worldbank.org/en/developmenttalk/understanding-dynamics-gender-norms-somalia-behavioral-approach). *World Bank Blog: Let's Talk Development*.
 
