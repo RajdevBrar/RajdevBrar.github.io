@@ -45,4 +45,6 @@ Pierotti, R., Delavallade, C., & Brar, R. (2023). [Engaging men for women's econ
 
 Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2023). [Understanding the dynamics of gender norms in Somalia: A behavioral approach](https://blogs.worldbank.org/en/developmenttalk/understanding-dynamics-gender-norms-somalia-behavioral-approach). *World Bank Blog: Let's Talk Development*.
 
+---
+
 You can reach me at [rajdevbrar@berkeley.edu](mailto:rajdevbrar@berkeley.edu).
