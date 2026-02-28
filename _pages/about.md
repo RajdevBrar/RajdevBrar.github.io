@@ -37,7 +37,7 @@ I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berk
 
 ### Publications
 
-Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2025). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
+Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2026). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
 
 ### Policy briefs and blog posts
 
