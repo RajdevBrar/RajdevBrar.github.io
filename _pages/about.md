@@ -3,7 +3,7 @@ layout: about
 title: about
 nav: false
 permalink: /
-subtitle: <a href="/assets/pdf/CV_RajdevBrar_Jan2026.pdf">CV</a>
+subtitle:
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berkeley.
+I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berkeley. Here is my [CV](/assets/pdf/CV_RajdevBrar_Jan2026.pdf).
 
 ### Work in progress
 
