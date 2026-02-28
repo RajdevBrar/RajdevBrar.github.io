@@ -27,17 +27,17 @@ latest_posts:
 
 I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berkeley.
 
-## Publications
+### Publications
 
 Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2025). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
 
-## Work in progress
+### Work in progress
 
 "Information-seeking behavior among high school students in India" (with Rubina Hundal) [Pilot in progress]
 
 "Bundled agricultural services for smallholder farmers in Egypt" (with Amira El-Shal, Jeremy Magruder) [Pilot preparation]
 
-## Policy briefs and blog posts
+### Policy briefs and blog posts
 
 Pierotti, R., Delavallade, C., & Brar, R. (2023). [Engaging men for women's economic empowerment: Overview of the evidence](https://openknowledge.worldbank.org/server/api/core/bitstreams/974c3488-0c43-4c1d-955c-f6b9b32cbd30/content). *World Bank Policy Brief*, Africa Gender Innovation Lab.
 
