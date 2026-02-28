@@ -37,6 +37,8 @@ Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2025). [Resisting social co
 
 "Bundled agricultural services for smallholder farmers in Egypt" (with Amira El-Shal, Jeremy Magruder) [Pilot preparation]
 
+"Commitment savings in farming populations" (with Kelsey Jack, Supreet Kaur, Nicholas Swanson)
+
 ### Policy briefs and blog posts
 
 Pierotti, R., Delavallade, C., & Brar, R. (2023). [Engaging men for women's economic empowerment: Overview of the evidence](https://openknowledge.worldbank.org/server/api/core/bitstreams/974c3488-0c43-4c1d-955c-f6b9b32cbd30/content). *World Bank Policy Brief*, Africa Gender Innovation Lab.
