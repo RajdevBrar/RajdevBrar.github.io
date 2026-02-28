@@ -29,9 +29,9 @@ I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berk
 
 ### Work in progress
 
-"Information-seeking behavior among high school students in India" (with Rubina Hundal) [Pilot in progress]
+"Information-seeking behavior among high school students in India" (with Rubina Hundal)
 
-"Bundled agricultural services for smallholder farmers in Egypt" (with Amira El-Shal, Jeremy Magruder) [Pilot preparation]
+"Bundled agricultural services for smallholder farmers in Egypt" (with Amira El-Shal, Jeremy Magruder)
 
 "Commitment savings in farming populations" (with Kelsey Jack, Supreet Kaur, Nicholas Swanson)
 
