@@ -33,3 +33,5 @@ My current projects include:
 - **Mozare3** — examining contract farming arrangements in Egypt
 - **HSM** — analyzing consumption smoothing strategies for smallholder farmers in Malawi
 - **Pesticide** — exploring pesticide use patterns among farmers in India
+
+You can find my CV [here](/assets/pdf/CV_RajdevBrar_Jan2026.pdf).
