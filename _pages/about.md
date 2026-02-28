@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a fourth-year PhD student in Applied Economics. My research focuses on agricultural markets and rural development in low- and middle-income countries.
+I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berkeley. My research focuses on agricultural markets and rural development in low- and middle-income countries.
 
 - **LAHI** — studying information search among high school students in India
 - **Mozare3** — examining contract farming arrangements in Egypt
