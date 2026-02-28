@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Rajdev
 middle_name:
 last_name: Brar
-contact_note: >
-  The best way to reach me is by email.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student in Applied Economics. I study agricultural markets, contract farming, and rural development in low- and middle-income countries.
 footer_text:
