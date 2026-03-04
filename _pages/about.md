@@ -29,7 +29,7 @@ I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berk
 
 ### Work in progress
 
-"Information-seeking behavior among high school students in India" (with Rubina Hundal)
+"[Information-seeking behavior among high school students in India](https://www.socialscienceregistry.org/trials/17369)" (with Rubina Hundal)
 
 "[Bundled contract farming and microloans for climate-resilient agricultural production in Egypt](https://www.socialscienceregistry.org/trials/16013)" (with Amira El-Shal, Jeremy Magruder)
 
