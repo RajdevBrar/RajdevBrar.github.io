@@ -31,7 +31,7 @@ I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berk
 
 "Information-seeking behavior among high school students in India" (with Rubina Hundal)
 
-"Bundled agricultural services for smallholder farmers in Egypt" (with Amira El-Shal, Jeremy Magruder)
+"[Bundled Contract Farming and Microloans for Climate-Resilient Agricultural Production in Egypt](https://www.socialscienceregistry.org/trials/16013)" (with Amira El-Shal, Jeremy Magruder)
 
 "Addressing seasonal hunger in Malawi: Scaling a budgeting intervention" (with Kelsey Jack, Supreet Kaur, Nicholas Swanson)
 ### Publications
