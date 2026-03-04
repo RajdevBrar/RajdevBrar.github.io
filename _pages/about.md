@@ -29,11 +29,11 @@ I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berk
 
 ### Work in progress
 
-"[Information-seeking behavior among high school students in India](https://www.socialscienceregistry.org/trials/17369)" (with Rubina Hundal)
+"Information-seeking behavior among high school students in India" (with Rubina Hundal) [[AEA Registry](https://www.socialscienceregistry.org/trials/17369)]
 
-"[Bundled contract farming and microloans for climate-resilient agricultural production in Egypt](https://www.socialscienceregistry.org/trials/16013)" (with Amira El-Shal, Jeremy Magruder)
+"Bundled contract farming and microloans for climate-resilient agricultural production in Egypt" (with Amira El-Shal, Jeremy Magruder) [[AEA Registry](https://www.socialscienceregistry.org/trials/16013)]
 
-"[Testing a budgeting intervention to address seasonal hunger](https://www.socialscienceregistry.org/trials/15744)" (with Kelsey Jack, Supreet Kaur, Nicholas Swanson)
+"Testing a budgeting intervention to address seasonal hunger" (with Kelsey Jack, Supreet Kaur, Nicholas Swanson) [[AEA Registry](https://www.socialscienceregistry.org/trials/15744)]
 ### Publications
 
 Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2026). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
