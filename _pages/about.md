@@ -33,7 +33,7 @@ I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berk
 
 "[Bundled contract farming and microloans for climate-resilient agricultural production in Egypt](https://www.socialscienceregistry.org/trials/16013)" (with Amira El-Shal, Jeremy Magruder)
 
-"Addressing seasonal hunger in Malawi: Scaling a budgeting intervention" (with Kelsey Jack, Supreet Kaur, Nicholas Swanson)
+"[Testing a budgeting intervention to address seasonal hunger](https://www.socialscienceregistry.org/trials/15744)" (with Kelsey Jack, Supreet Kaur, Nicholas Swanson)
 ### Publications
 
 Brar, R., Buehren, N., Papineni, S., & Sulaiman, M. (2026). [Resisting social conformity pressure: Impact of a gender norms intervention for adolescents in Somalia](https://www.sciencedirect.com/science/article/abs/pii/S0304387825002640). *Journal of Development Economics*, 103713.
