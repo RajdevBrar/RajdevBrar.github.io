@@ -448,7 +448,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_RajdevBrar_Jan2026.pdf", "_blank");
+          window.open("/assets/pdf/CV_RajdevBrar_15May2026.pdf", "_blank");
         },
       },{
         id: 'social-email',
