@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berkeley. Here is my [CV](/assets/pdf/CV_RajdevBrar_15May2026.pdf).
+I am a fourth-year PhD student in Agricultural and Resource Economics at UC Berkeley. Here is my [CV](/assets/pdf/CV_RajdevBrar_5Jun2026.pdf).
 
 ### Work in progress
 
