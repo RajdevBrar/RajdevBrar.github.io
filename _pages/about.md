@@ -29,13 +29,13 @@ I am a PhD student in Agricultural and Resource Economics at UC Berkeley. Previo
 
 ### Work in progress
 
-"Information-seeking behavior among high school students in India" [[AEA Registry](https://www.socialscienceregistry.org/trials/17369)]
+"Information-seeking behavior among high school students in India"
 <br>(with Rubina Hundal)
 
-"Bundled contract farming and microloans for climate-resilient agricultural production in Egypt" [[AEA Registry](https://www.socialscienceregistry.org/trials/16013)]
+"Bundled contract farming and microloans for climate-resilient agricultural production in Egypt"
 <br>(with Amira El-Shal, Jeremy Magruder)
 
-"Testing a budgeting intervention to address seasonal hunger" [[AEA Registry](https://www.socialscienceregistry.org/trials/15744)]
+"Testing a budgeting intervention to address seasonal hunger"
 <br>(with Kelsey Jack, Supreet Kaur, Nicholas Swanson)
 
 "Household-level impacts of increasing women's financial control in Côte d'Ivoire"
