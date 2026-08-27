@@ -57,10 +57,15 @@
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-weight: 700;
+    letter-spacing: -0.02em;
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    font-weight: 400;
+    font-size: 0.95rem;
+    letter-spacing: 0.01em;
 
     &:hover {
       color: var(--global-hover-color);
